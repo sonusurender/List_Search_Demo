@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List Search Demo</string>
+    <string name="enter_text_to_search">Enter text to search</string>
+    <string name="search_via">Search via</string>
+    <string name="filter_by">Filter By</string>
+    <string name="contains">Contains</string>
+    <string name="starts_with">Starts With</string>
+    <string name="emailid">EmailID</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+</resources>
